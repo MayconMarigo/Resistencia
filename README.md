@@ -24,22 +24,21 @@ Aplicativo desenvolvido para auxiliar nos casos de denúncia junto a Guarda Muni
  <img src="https://user-images.githubusercontent.com/67290959/142232764-b5ee2349-56e0-4a6f-bc33-522c9f1dd925.png" width="230" heigth="500" >
  <img src="https://user-images.githubusercontent.com/67290959/142234205-6bf8dd71-20c4-4114-bfd5-55e5194c0300.png" width="230" heigth="500" >
  <img src="https://user-images.githubusercontent.com/67290959/142234860-5bb0029d-2f70-413c-a49d-431d024700bf.png" width="230" heigth="500" >
- <img src="https://user-images.githubusercontent.com/67290959/142235156-2dbb5995-7246-43c5-add6-f37b918d4749.png" width="230" heigth="500" >
  </div>
-► TERMOS E CONDIÇÕES DE USO
+► TERMOS E CONDIÇÕES DE USO, ► CONFIGURAÇÕES DE MENSAGENS, ► MEDIDA PROTETIVA
  <div style="display:inline-block">
  <img src="https://user-images.githubusercontent.com/67290959/142235156-2dbb5995-7246-43c5-add6-f37b918d4749.png" width="230" heigth="500" >
+ <img src="https://user-images.githubusercontent.com/67290959/142237174-1867b96a-b664-4c6a-b978-dae2f291fb69.png" width="230" heigth="500" >
+ <img src="https://user-images.githubusercontent.com/67290959/142235293-569edf50-2aba-444c-83f3-99ec92059501.png" width="230" heigth="500" >
  </div>
- ► HOME, ► MEDIDA PROTETIVA, ► DADOS PESSOAIS, ► CONFIGURAÇÕES DE MENSAGENS
+ ► HOME, ► DADOS PESSOAIS, ► OCORRÊNCIAS
  <div style="display:inline-block">
  <img src="https://user-images.githubusercontent.com/67290959/142235492-4d92aa6e-8cc0-43ba-a1a7-5df55df7293a.png" width="230" heigth="500" > 
- <img src="https://user-images.githubusercontent.com/67290959/142235293-569edf50-2aba-444c-83f3-99ec92059501.png" width="230" heigth="500" >
  <img src="https://user-images.githubusercontent.com/67290959/142236898-cca938fd-beed-485c-a557-c460c3fa0079.png" width="230" heigth="500" >
- <img src="https://user-images.githubusercontent.com/67290959/142237174-1867b96a-b664-4c6a-b978-dae2f291fb69.png" width="230" heigth="500" >
+ <img src="https://user-images.githubusercontent.com/67290959/142237772-b6fd7aad-0ee6-44e7-91ce-edb61563d39b.png" width="230" heigth="500" >
  </div>
-  ► OCORRÊNCIAS, ► TELEFONES ÚTEIS, ► MINHA LOCALIZAÇÃO
+ ► TELEFONES ÚTEIS, ► MINHA LOCALIZAÇÃO
  <div style="display:inline-block">
- <img src="https://user-images.githubusercontent.com/67290959/142237772-b6fd7aad-0ee6-44e7-91ce-edb61563d39b.png" width="230" heigth="500" > 
  <img src="https://user-images.githubusercontent.com/67290959/142237842-55d75ca7-2a22-451f-b61a-64962f91c466.png" width="230" heigth="500" >
  <img src="https://user-images.githubusercontent.com/67290959/142238326-4219a303-6367-4ade-8c6e-78d7592724e7.png" width="230" heigth="500" >
  </div>

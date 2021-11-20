@@ -19,11 +19,15 @@ Aplicativo desenvolvido para auxiliar nos casos de denúncia junto a Guarda Muni
 
 # SCREENS
 
-► LOGIN, ► ESQUECI MINHA SENHA, ► CADASTRO, ► TERMOS E CONDIÇÕES DE USO
+► LOGIN, ► ESQUECI MINHA SENHA, ► CADASTRO
  <div style="display:inline-block">
  <img src="https://user-images.githubusercontent.com/67290959/142232764-b5ee2349-56e0-4a6f-bc33-522c9f1dd925.png" width="230" heigth="500" >
  <img src="https://user-images.githubusercontent.com/67290959/142234205-6bf8dd71-20c4-4114-bfd5-55e5194c0300.png" width="230" heigth="500" >
  <img src="https://user-images.githubusercontent.com/67290959/142234860-5bb0029d-2f70-413c-a49d-431d024700bf.png" width="230" heigth="500" >
+ <img src="https://user-images.githubusercontent.com/67290959/142235156-2dbb5995-7246-43c5-add6-f37b918d4749.png" width="230" heigth="500" >
+ </div>
+► TERMOS E CONDIÇÕES DE USO
+ <div style="display:inline-block">
  <img src="https://user-images.githubusercontent.com/67290959/142235156-2dbb5995-7246-43c5-add6-f37b918d4749.png" width="230" heigth="500" >
  </div>
  ► HOME, ► MEDIDA PROTETIVA, ► DADOS PESSOAIS, ► CONFIGURAÇÕES DE MENSAGENS
